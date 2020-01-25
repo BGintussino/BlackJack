@@ -20,4 +20,5 @@ That's why, in the next release (probably a beta yet), a main menu will be added
 There are some modified rules, for example the ace has "1" as the only value, while, in the original game, you can choose "1" or "11"; there are five rounds, so, after the fifth round, there will be a check to say "And the winner is...".
 
 The code is actually really long, and in the next releases it will be reduced, but it won't lose its functionalities.
+
 ---------------------------------------------------------------------------------------------------------------------
