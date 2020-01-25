@@ -1,6 +1,13 @@
 # BlackJack
 BlackJack coded with C++ by PintussinoGamer and BG04PF
 
+---------------------------------------------------------------------------------------------------------------------
+# BlackJack beta 0.2
+And now, the second release.
+
+As we said in the previous release, the code is really really reduced, from 633 stripes of code to 130 stripes, reducing also more than 80% of the file wight (from 13.2 kb to 2.54). 
+Did it lose any functionality? Absolutly not!
+It's not very comfortable to play yet, and it didn't get any new additions, but we're just in the beta versions...
 
 ---------------------------------------------------------------------------------------------------------------------
 # BlackJack beta 0.1
@@ -13,5 +20,4 @@ That's why, in the next release (probably a beta yet), a main menu will be added
 There are some modified rules, for example the ace has "1" as the only value, while, in the original game, you can choose "1" or "11"; there are five rounds, so, after the fifth round, there will be a check to say "And the winner is...".
 
 The code is actually really long, and in the next releases it will be reduced, but it won't lose its functionalities.
-
 ---------------------------------------------------------------------------------------------------------------------
