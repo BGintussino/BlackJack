@@ -9,7 +9,7 @@ Third release of the gamble game.
 We added a main menu, with a choice of "SinglePlayer" (it's a beta of the A.I.), "Multiplayer" (with a maximum aamount of 5 players), and a "Rules" section to write on... But it's empty for now ;-)
 
 There's just a little issue with the multiplayer, and that's if a player goes over 21, the entire game stops, making the others players winners.
-
+The code has a structure similar to the first version of the game, every step is declared and it takes space to the memory and time to compile.
 The file has almost the same size as the first release, but on the most recent there are more features than the first, of course...
 And, naturally, on the next releases the code will be reduced, making it more lightweight.
 And why not, we could add more features...
