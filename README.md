@@ -1,6 +1,6 @@
 # BlackJack
 BlackJack coded with C++ by PintussinoGamer and BG04PF
-
+See the wiki page for more informations.
 
 ---------------------------------------------------------------------------------------------------------------------
 # BlackJack beta 0.3
