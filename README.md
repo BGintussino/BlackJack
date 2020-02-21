@@ -1,5 +1,5 @@
 # BlackJack
-BlackJack coded with C++ by PintussinoGamer and BG04PF
+BlackJack coded with C++ by PintussinoGamer and BG04PF <br>
 See the wiki page for more informations.
 
 ---------------------------------------------------------------------------------------------------------------------
