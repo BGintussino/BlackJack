@@ -10,7 +10,7 @@ Nothing has changed from the precedent version, but the file size has been reduc
 The Main Manu has been removed and also the Singleplayer, beacuse the A.I. has to be more improved, and this - we hope- we'll be done pretty soon...
 
 There's again the issue about if the player goes over 21, the entire game stops working, and this won't be fixed in the next release, for problems of time.
-But... just enjoy the game ;-)
+But... just enjoy the game ;-) <br><br>
 See the <a href="https://github.com/BGintussino/BlackJack/wiki/Description-of-beta-releases">wiki</a> to get more information.
 
 ---------------------------------------------------------------------------------------------------------------------
