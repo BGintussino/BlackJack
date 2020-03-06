@@ -26,4 +26,4 @@ And why not, we could add more features...
 
 -----------------------------------------------------------------------------------------------------------------------
 
-To see the descriptions of old releases, take a look at the wiki.
+To see the descriptions of old releases, take a look at the <a href="https://github.com/BGintussino/BlackJack/wiki/Archive-of-announces-of-old-releases">wiki</a>.
