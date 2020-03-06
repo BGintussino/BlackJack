@@ -3,14 +3,14 @@ BlackJack coded with C++ by PintussinoGamer and BG04PF <br>
 See the wiki page for more informations.
 
 
-
-
-
-
 # BlackJack beta 0.4
 Time for the fourth version!
 
-Nothing has changed from the precedent version, but the file size has been reduced by a lot: 
+Nothing has changed from the precedent version, but the file size has been reduced: from about 13 kb of the 0.3 beta, now we're at 6.7 kb with this new version.
+The Main Manu has been removed and also the Singleplayer, beacuse the A.I. has to be more improved, and this - we hope- we'll be done pretty soon...
+
+There's again the issue about if the player goes over 21, the entire game stops working, and this won't be fixed in the next release, for problems of time.
+But... just enjoy the game ;-)
 
 ---------------------------------------------------------------------------------------------------------------------
 # BlackJack beta 0.3
